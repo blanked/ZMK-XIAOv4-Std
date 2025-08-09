@@ -70,9 +70,9 @@
         gaming {
             bindings = <
 &trans  &trans          &trans     &trans        &trans            &trans    &trans           &trans           &trans           &trans           &trans  &trans
-&kp T   &kp TAB         &kp Q      &kp X         &kp E             &kp R     &rgb_ug RGB_ON   &rgb_ug RGB_OFF  &rgb_ug RGB_BRI  &rgb_ug RGB_BRD  &trans  &trans
-&kp G   &kp LEFT_SHIFT  &kp A      &kp W         &kp D             &kp F     &bl BL_ON        &bl BL_OFF       &trans           &trans           &trans  &trans
-&kp B   &kp R           &kp Z      &kp S         &kp C             &kp V     &rgb_ug RGB_EFF  &rgb_ug RGB_EFR  &rgb_ug RGB_TOG  &trans           &trans  &trans
+&kp T   &kp TAB         &kp Q      &kp W         &kp E             &kp R     &rgb_ug RGB_ON   &rgb_ug RGB_OFF  &rgb_ug RGB_BRI  &rgb_ug RGB_BRD  &trans  &trans
+&kp G   &kp LEFT_SHIFT  &kp A      &kp S         &kp D             &kp F     &bl BL_ON        &bl BL_OFF       &trans           &trans           &trans  &trans
+&kp B   &kp R           &kp Z      &kp X         &kp C             &kp V     &rgb_ug RGB_EFF  &rgb_ug RGB_EFR  &rgb_ug RGB_TOG  &trans           &trans  &trans
                         &kp GRAVE  &mo 1                                                                       &disable_gaming  &disable_gaming
                                    &kp LEFT_ALT  &kp SPACE         &trans    &trans           &trans           &trans
                                                  &kp LEFT_CONTROL  &trans    &trans           &trans
