@@ -68,13 +68,13 @@
 
         gaming {
             bindings = <
-&trans  &trans          &trans     &trans     &trans        &trans    &trans  &trans  &trans            &trans           &trans  &trans
-&kp T   &kp TAB         &kp Q      &kp W      &kp E         &kp R     &trans  &trans  &trans            &trans           &trans  &trans
-&kp G   &kp LEFT_SHIFT  &kp A      &kp S      &kp D         &kp F     &trans  &trans  &trans            &trans           &trans  &trans
-&kp B   &kp LCTRL       &kp Z      &kp X      &kp C         &kp V     &trans  &trans  &trans            &trans           &trans  &disable_gaming
-                        &kp GRAVE  &mo 1                                              &disable_gaming   &disable_gaming
-                                   &kp SPACE  &kp LCTRL     &mo 1     &trans  &trans  &kp K_PLAY_PAUSE
-                                              &kp LEFT_ALT  &trans    &mo 1   &mo 2
+&trans  &trans          &trans             &trans         &trans        &trans    &trans  &trans  &trans            &trans           &trans  &trans
+&kp T   &kp TAB         &kp Q              &kp W          &kp E         &kp R     &trans  &trans  &trans            &trans           &trans  &trans
+&kp G   &kp LEFT_SHIFT  &kp A              &kp S          &kp D         &kp F     &trans  &trans  &trans            &trans           &trans  &trans
+&kp B   &kp LCTRL       &kp Z              &kp X          &kp C         &kp V     &trans  &trans  &trans            &trans           &trans  &disable_gaming
+                        &kp RIGHT_CONTROL  &kp RIGHT_ALT                                          &disable_gaming   &disable_gaming
+                                           &kp SPACE      &kp LCTRL     &mo 1     &trans  &trans  &kp K_PLAY_PAUSE
+                                                          &kp LEFT_ALT  &trans    &mo 1   &mo 2
             >;
         };
     };
